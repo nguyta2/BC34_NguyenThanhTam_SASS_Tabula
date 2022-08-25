@@ -1,0 +1,14 @@
+#courses {
+  .col__content {
+    justify-content: center;
+    text-align: center;
+    .headline {
+      margin-top: 40px;
+      position: relative;
+      h4 {
+        font-size: 2.5rem;
+        font-weight: $fw-3;
+      }
+    }
+  }
+}
