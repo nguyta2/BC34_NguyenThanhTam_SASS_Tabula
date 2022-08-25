@@ -1,0 +1,22 @@
+#carousel {
+  .container {
+    position: relative;
+  }
+
+  .carousel__content {
+  }
+  .row {
+    display: flex;
+    align-items: center;
+  }
+  .headline {
+    text-align: left;
+    color: $color-dark-2;
+    position: relative;
+    .headline_tag {
+      h1.headline_tag {
+        font-size: 3.8rem;
+      }
+    }
+  }
+}
